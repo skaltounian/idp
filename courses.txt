@@ -1,0 +1,8 @@
+| Course              | Start Date | End Date  |
+| Learn Git & GitHub  | 2024-02-12 | Ongoing   |
+
+Future Plan
+| Anything on Git Copilot |
+| GitHub Actions          |
+| Refresher on Machine Learning |
+| AI |
