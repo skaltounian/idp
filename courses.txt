@@ -1,8 +1,9 @@
-| Course              | Source       | Start Date | End Date  | 
-| Learn Git & GitHub  | Codecademy   | 2024-02-12 | Ongoing   |
+| Course              | Source       | Start Date | End Date     | 
+| Learn Git & GitHub  | Codecademy   | 2024-02-12 | 2024-02-29   |
+| Computer Science    | Codecademy   | 2024-01-22 | ongoing      |
 
 Future Plan
-| Anything on Git Copilot |
+| GitHub Copilot |
 | GitHub Actions          |
 | Refresher on Machine Learning |
 | AI |
