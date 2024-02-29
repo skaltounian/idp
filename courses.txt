@@ -1,5 +1,5 @@
-| Course              | Start Date | End Date  |
-| Learn Git & GitHub  | 2024-02-12 | Ongoing   |
+| Course              | Source       | Start Date | End Date  | 
+| Learn Git & GitHub  | Codecademy   | 2024-02-12 | Ongoing   |
 
 Future Plan
 | Anything on Git Copilot |
