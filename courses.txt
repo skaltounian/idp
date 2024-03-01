@@ -4,7 +4,10 @@
 | Intro to Cloud Computing | Codecademy   | 2024-03-01 | Ongoing |
 
 Future Plan
-| More detailed course on cloud computing | Cloud services, Cloud security, config and deployment  | 
+| More on Cloud services | | 
+| More on Cloud security | |
+| More on Cloud config and deployment | | 
+| More on Cloud deployment models  | |
 | GitHub Copilot | |
 | GitHub Actions | |
 | Refresher on Machine Learning | |
