@@ -1,9 +1,10 @@
-| Course              | Source       | Start Date | End Date     | 
-| Learn Git & GitHub  | Codecademy   | 2024-02-12 | 2024-02-29   |
-| Computer Science    | Codecademy   | 2024-01-22 | ongoing      |
+| Course                   | Source       | Start Date | End Date     | 
+| Learn Git & GitHub       | Codecademy   | 2024-02-12 | 2024-02-29   |
+| Computer Science         | Codecademy   | 2024-01-22 | Ongoing      |
+| Intro to Cloud Computing | Codecademy   | 2024-03-01 | Ongoing |
 
 Future Plan
-| Refresher on cloud computing |
+| More detailed course on cloud computing |
 | GitHub Copilot |
 | GitHub Actions          |
 | Refresher on Machine Learning |
