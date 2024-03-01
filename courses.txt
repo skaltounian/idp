@@ -3,6 +3,7 @@
 | Computer Science    | Codecademy   | 2024-01-22 | ongoing      |
 
 Future Plan
+| Refresher on cloud computing |
 | GitHub Copilot |
 | GitHub Actions          |
 | Refresher on Machine Learning |
