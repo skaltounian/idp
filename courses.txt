@@ -7,6 +7,7 @@
 
 
 Future Plan
+| find something on declarative languages | |
 | More on Cloud services | | 
 | More on Cloud security | |
 | More on Cloud config and deployment | | 
