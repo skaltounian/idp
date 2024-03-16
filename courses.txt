@@ -9,11 +9,11 @@
 
 Future Plan
 
-| More on Cloud services | | 
-| More on Cloud security | |
-| More on Cloud config and deployment | | 
-| More on Cloud deployment models  | |
-| GitHub Copilot | |
-| GitHub Actions | |
-| Refresher on Machine Learning | |
-| AI | |
+| More on Cloud Services           | | 
+| More on Cloud Security           | |
+| More on Cloud Config, Deployment | | 
+| More on Cloud Deployment Models  | |
+| GitHub Copilot                   | |
+| GitHub Actions                   | |
+| Refresher on Machine Learning    | |
+| Intro to AI                      | |
