@@ -10,6 +10,7 @@
 
 Future Plan
 
+| Into to Full Stack development   | |
 | More on Cloud Services           | | 
 | More on Cloud Security           | |
 | More on Cloud Config, Deployment | | 
