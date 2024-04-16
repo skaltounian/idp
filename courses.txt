@@ -6,6 +6,7 @@
 | Computer Science         | Codecademy   | 2024-01-22 | ~30%       |
 | Declarative languages    | YouTube      | 2024-03-14 | 2024-03-14 |
 | Web development IDEs     | YouTube      | 2024-03-20 | 2024-03-20 |
+| Intro to Generative AI   | Codecademy   | 2024-04-16 | 2024-04-16 |
 
 
 Future Plan
@@ -18,4 +19,4 @@ Future Plan
 | GitHub Copilot                   | |
 | GitHub Actions                   | |
 | Refresher on Machine Learning    | |
-| Intro to AI                      | |
+| More than an intro to AI         | |
