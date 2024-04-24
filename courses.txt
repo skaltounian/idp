@@ -8,6 +8,7 @@
 | Web development IDEs        | YouTube      | 2024-03-20 | 2024-03-20 |
 | Intro to Generative AI      | Codecademy   | 2024-04-16 | 2024-04-16 |
 | Intro to Data Visualization | Codecademy   | 2024-04-18 | 2024-04-23 |
+| Learn Color Design          | Codecademy   | 2024-04-24 | ~25%       |
 
 
 Future Plan
