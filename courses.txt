@@ -9,6 +9,7 @@
 | Intro to Generative AI      | Codecademy   | 2024-04-16 | 2024-04-16 |
 | Intro to Data Visualization | Codecademy   | 2024-04-18 | 2024-04-23 |
 | Learn Color Design          | Codecademy   | 2024-04-24 | 2024-05-01 |
+| Intro to Machine Learning   | Codecademy   | 2024-05-02 | ~30%       |
 
 
 Future Plan
@@ -20,6 +21,5 @@ Future Plan
 | More on Cloud Deployment Models  | |
 | GitHub Copilot                   | |
 | GitHub Actions                   | |
-| Refresher on Machine Learning    | |
 | More than an intro to AI         | |
 | Refresher on Scrum and Agile     | |
