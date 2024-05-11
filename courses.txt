@@ -9,7 +9,7 @@
 | Intro to Generative AI      | Codecademy   | 2024-04-16 | 2024-04-16 |
 | Intro to Data Visualization | Codecademy   | 2024-04-18 | 2024-04-23 |
 | Learn Color Design          | Codecademy   | 2024-04-24 | 2024-05-01 |
-| Intro to Machine Learning   | Codecademy   | 2024-05-02 | ~50%       |
+| Intro to Machine Learning   | Codecademy   | 2024-05-02 | 2024-05-10 |
 
 
 Future Plan
@@ -23,3 +23,6 @@ Future Plan
 | GitHub Actions                   | |
 | More than an intro to AI         | |
 | Refresher on Scrum and Agile     | |
+| numpy                            | |
+
+print the coefficients of the function
