@@ -10,21 +10,23 @@
 | Intro to Data Visualization | Codecademy   | 2024-04-18 | 2024-04-23 |
 | Learn Color Design          | Codecademy   | 2024-04-24 | 2024-05-01 |
 | Intro to Machine Learning   | Codecademy   | 2024-05-02 | 2024-05-10 |
-| Learn PHP: Introduction     | Codecademy   | 2024-05-11 | 50%        |
+| Learn PHP: Introduction     | Codecademy   | 2024-05-11 | 75%        |
 
 
 
 Future Plan
 
 | Intro to Full Stack development  | |
-| More on Cloud Services           | | 
-| More on Cloud Security           | |
-| More on Cloud Config, Deployment | | 
-| More on Cloud Deployment Models  | |
+| Deeper dive into on Cloud        | | 
 | GitHub Copilot                   | |
 | GitHub Actions                   | |
-| More than an intro to AI         | |
+| Deeper dive into AI              | |
 | Refresher on Scrum and Agile     | |
 | numpy                            | |
+| Data Science                     | |
+| AI in SW Test                    | |
+| Java Script                      | |
+| Rest API                         | |
 
-print the coefficients of the function
+get the coefficients of the function
+get the slope of the last segment
