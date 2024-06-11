@@ -12,6 +12,8 @@
 | Intro to Machine Learning   | Codecademy   | 2024-05-02 | 2024-05-10 |
 | Learn PHP: Introduction     | Codecademy   | 2024-05-11 | 2024-05-17 |
 | Introduction to numpy       | Codecademy   | 2024-05-21 | 2024-06-04 |
+| Intro to Open Source        | Codecademy   | 2024-06-05 | 2024-06-07 |
+| Intro to JavaScript         | Codecademy   | 2024-06-11 |            |
 
 
 
