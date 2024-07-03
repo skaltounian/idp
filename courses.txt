@@ -13,7 +13,7 @@
 | Learn PHP: Introduction     | Codecademy   | 2024-05-11 | 2024-05-17 |
 | Introduction to numpy       | Codecademy   | 2024-05-21 | 2024-06-04 |
 | Intro to Open Source        | Codecademy   | 2024-06-05 | 2024-06-07 |
-| Intro to JavaScript         | Codecademy   | 2024-06-11 | ~50%       |
+| Intro to JavaScript         | Codecademy   | 2024-06-11 | ~66%       |
 
 
 
@@ -24,11 +24,13 @@ Future Plan
 | GitHub Copilot                   | |
 | GitHub Actions                   | |
 | Deeper dive into AI              | |
+| GenAI                            | |
 | Refresher on Scrum and Agile     | |
 | pandas                           | |
 | Data Science                     | |
 | AI in SW Test                    | |
-| Java Script                      | |
+| JavaScript - Mid level           | |
+| Selenium                         | |
 | Rest API                         | |
 
 get the coefficients of the function
