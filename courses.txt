@@ -13,7 +13,7 @@
 | Learn PHP: Introduction     | Codecademy   | 2024-05-11 | 2024-05-17 |
 | Introduction to numpy       | Codecademy   | 2024-05-21 | 2024-06-04 |
 | Intro to Open Source        | Codecademy   | 2024-06-05 | 2024-06-07 |
-| Intro to JavaScript         | Codecademy   | 2024-06-11 | ~66%       |
+| Intro to JavaScript         | Codecademy   | 2024-06-11 | ~75%       |
 
 
 
@@ -32,6 +32,7 @@ Future Plan
 | JavaScript - Mid level           | |
 | Selenium                         | |
 | Rest API                         | |
+| DevSecOps                        | |
 
 get the coefficients of the function
 get the slope of the last segment
