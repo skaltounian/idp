@@ -13,14 +13,14 @@
 | Learn PHP: Introduction     | Codecademy   | 2024-05-11 | 2024-05-17 |
 | Introduction to numpy       | Codecademy   | 2024-05-21 | 2024-06-04 |
 | Intro to Open Source        | Codecademy   | 2024-06-05 | 2024-06-07 |
-| Intro to JavaScript         | Codecademy   | 2024-06-11 | ~75%       |
+| Intro to JavaScript         | Codecademy   | 2024-06-11 | ~88%       |
 
 
 
 Future Plan
 
 | Intro to Full Stack development  | |
-| Deeper dive into on Cloud        | | 
+| Deeper dive into on Cloud/AWS    | | 
 | GitHub Copilot                   | |
 | GitHub Actions                   | |
 | Deeper dive into AI              | |
