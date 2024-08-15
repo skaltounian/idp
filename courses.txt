@@ -16,7 +16,7 @@
 | Intro to JavaScript         | Codecademy   | 2024-06-11 | 2024-07-19 |
 | Unittest for Python         | YouTube      | 2024-07-22 | 2024-07-22 |
 | Unit Testing with GenAI     | Codecademy   | 2024-07-22 | 2024-07-22 |
-| Front-End Engineer          | Codecademy   | 2024-07-24 | ~84%       |
+| Front-End Engineer          | Codecademy   | 2024-07-24 | ~32%       |
 
 
 Future Plan
