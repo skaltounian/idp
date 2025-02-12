@@ -17,7 +17,7 @@
 | Unittest for Python                | YouTube      | 2024-07-22 | 2024-07-22 |
 | Unit Testing with GenAI            | Codecademy   | 2024-07-22 | 2024-07-22 |
 | Front-End Engineer                 | Codecademy   | 2024-07-24 | ~48%       |
-| Business Intelligence Data Analyst | Codecademy   | 2025-01-28 | 36%        |
+| Business Intelligence Data Analyst | Codecademy   | 2025-01-28 | 37%        |
 
 
 Future Plan
