@@ -17,7 +17,7 @@
 | Unittest for Python                | YouTube      | 2024-07-22 | 2024-07-22 |
 | Unit Testing with GenAI            | Codecademy   | 2024-07-22 | 2024-07-22 |
 | Front-End Engineer                 | Codecademy   | 2024-07-24 | ~48%       |
-| Business Intelligence Data Analyst | Codecademy   | 2025-01-28 | 39%        |
+| Business Intelligence Data Analyst | Codecademy   | 2025-01-28 | 46%        |
 
 
 Future Plan
@@ -37,7 +37,7 @@ Future Plan
 | Selenium                         | |
 | Rest API                         | |
 | DevSecOps                        | |
-| 6-sigma certification            | |
+| 6-sigma Green Belt certification | |
 
 get the coefficients of the function
 get the slope of the last segment
